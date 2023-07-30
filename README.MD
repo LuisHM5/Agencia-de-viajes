@@ -31,3 +31,7 @@
 ### Pie de página
 
 ![footer](docs/images/footer.png)
+
+### Vista rapida mobile
+
+![mobile](docs/images/mobile.png)
